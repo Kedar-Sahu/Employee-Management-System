@@ -5,4 +5,6 @@ public class Example {
 	public String navbarPage() {
 		return "navbar";
 	}
+	
+	// hello worlds
 }
